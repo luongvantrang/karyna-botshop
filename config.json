@@ -1,0 +1,50 @@
+{
+  "bot": {
+    "token": "MTQ0NTk4NDAzMjE4OTA1NTA5MQ.G6NRZa.-gqaPulmobduwuq665hV7i-gfYAhEl2mVcGb0A",
+    "clientId": "1445984032189055091",
+    "guildId": "1437947997668511757",
+    "manageChannelId": "1459789608576356403",
+    "legitChannelId": "1459495691201282058"
+  },
+  "design": {
+    "statusPending": "ĐÃ THANH TOÁN ( ĐANG TIẾN HÀNH CÀY )",
+    "statusDone": "ĐÃ HOÀN THÀNH"
+  },
+  "emojis": {
+    "productIcon": "📦"
+  },
+  "invite": {
+    "rate": 1000,
+    "holdHours": 0,
+    "minAccountAgeDays": 3,
+    "requireRoleId": "1459735115143057556",
+    "logChannelId": "1459785748445401132",
+    "redeem": {
+      "enabled": true,
+      "currencyName": "Tiền Invite",
+      "orderPrefix": "REDEEM",
+      "statusPending": "ĐANG XỬ LÝ REDEEM",
+      "statusDone": "REDEEM HOÀN TẤT",
+      "services": [
+        {
+          "id": "levi_heart",
+          "name": "Săn Tim Leviathan",
+          "cost": 10000,
+          "details": "Kéo Tim Levi về Tiki/Hydra"
+        },
+        {
+          "id": "scroll_10",
+          "name": "Cày Cuộn Đỏ (10 cuộn)",
+          "cost": 20000,
+          "details": "Gói 10 cuộn đỏ"
+        },
+        {
+          "id": "afk_7d",
+          "name": "Treo Máy 7 Ngày",
+          "cost": 50000,
+          "details": "AFK farm 7 ngày"
+        }
+      ]
+    }
+  }
+}

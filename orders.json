@@ -1,0 +1,615 @@
+[
+  {
+    "id": "1459785660369211576",
+    "channelId": "1458886309492818126",
+    "product": "cc",
+    "customer": "karyna_2",
+    "status": "pending",
+    "timestamp": 1768110422041
+  },
+  {
+    "id": "1459785826702590042",
+    "channelId": "1459769519210893377",
+    "product": "ád",
+    "customer": "karyna_2",
+    "status": "pending",
+    "timestamp": 1768110461730
+  },
+  {
+    "id": "1459786755875012861",
+    "channelId": "1459769519210893377",
+    "product": "á",
+    "customer": "karyna_2",
+    "status": "pending",
+    "timestamp": 1768110683541
+  },
+  {
+    "manageMsgId": "1459790138782781573",
+    "publicMsgId": "1459790134114385992",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1306633324088786956",
+    "product": "12"
+  },
+  {
+    "manageMsgId": "1459790259280805888",
+    "publicMsgId": "1459790256810496162",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1440355515334004837",
+    "product": "12"
+  },
+  {
+    "manageMsgId": "1459795681018384579",
+    "publicMsgId": "1459795678615175210",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1440355515334004837",
+    "product": "áda"
+  },
+  {
+    "manageMsgId": "1459796581136994366",
+    "publicMsgId": "1459796578586853500",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1445984032189055091",
+    "product": "C"
+  },
+  {
+    "manageMsgId": "1459798385035837595",
+    "publicMsgId": "1459798382448082944",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1440355515334004837",
+    "product": "20",
+    "price": "50"
+  },
+  {
+    "manageMsgId": "1459799263130288128",
+    "publicMsgId": "1459799259787431989",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1440355515334004837",
+    "product": "a",
+    "price": "a"
+  },
+  {
+    "manageMsgId": "1459800129585549435",
+    "publicMsgId": "1459800120735432806",
+    "publicChannelId": "1459789608576356403",
+    "customer": "1440355515334004837",
+    "product": "qư",
+    "price": "qư"
+  },
+  {
+    "manageMsgId": "1459801837946273845",
+    "publicMsgId": "1459801836218224777",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1440355515334004837",
+    "product": "qưe",
+    "price": "qưe",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "manageMsgId": "1459804861498659011",
+    "publicMsgId": "1459804858998587456",
+    "publicChannelId": "1459789608576356403",
+    "customer": "1445984032189055091",
+    "product": "á",
+    "price": "á",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "manageMsgId": "1459804968788955167",
+    "publicMsgId": "1459804966678954105",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1440355515334004837",
+    "product": "á",
+    "price": "á",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "manageMsgId": "1459805409081692213",
+    "publicMsgId": "1459805406410047518",
+    "publicChannelId": "1459789608576356403",
+    "customer": "1440355515334004837",
+    "product": "ád",
+    "price": "á",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "manageMsgId": "1459817562002030688",
+    "publicMsgId": "1459817558650654912",
+    "publicChannelId": "1459769519210893377",
+    "customer": "912143532947562539",
+    "product": "**10 **<:mythicscroll:1459817055250551012>",
+    "price": "20000",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "manageMsgId": "1459818161464410290",
+    "publicMsgId": "1459818157341675531",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1438200540847804547",
+    "product": "treo 8day",
+    "price": "50k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "manageMsgId": "1459889435012235357",
+    "publicMsgId": "1459889422110560355",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1299036181186740276",
+    "product": "<:levi_heart:1459815095780507785> hydra",
+    "price": "10k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "manageMsgId": "1459916570670403785",
+    "publicMsgId": "1459916567700705516",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1450432287488606310",
+    "product": "treo levi",
+    "price": "20k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "manageMsgId": "1459917345232257188",
+    "publicMsgId": "1459917341377957919",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1437793947136036864",
+    "product": "4 gear draco",
+    "price": "40k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "manageMsgId": "1460092538357809327",
+    "publicMsgId": "1460092535040114872",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1333747131697205258",
+    "product": "<:levi_heart:1459815095780507785>",
+    "price": "10k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460138649034297620",
+    "publicMsgId": "1460138645901283330",
+    "publicChannelId": "1460136675429843037",
+    "customer": "1221339205825986601",
+    "product": "20 <:MythicScrolls:1169652675659448431> 8day treo",
+    "price": "90k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460138811362246749",
+    "publicMsgId": "1460138808149278781",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1221339205825986601",
+    "product": "20 <:MythicScrolls:1169652675659448431> 8day treo",
+    "price": "90k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460229173380382783",
+    "publicMsgId": "1460229169643257879",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1459871037490729122",
+    "product": "<:levi_heart:1459815095780507785> tiki",
+    "price": "10k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460262177930743899",
+    "publicMsgId": "1460262174080372866",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1347358648178839683",
+    "product": "mua trái đảo bí ăn",
+    "price": "10k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460266268073525454",
+    "publicMsgId": "1460266265053495327",
+    "publicChannelId": "1459875141113610369",
+    "customer": "1459871037490729122",
+    "product": "<:levi_heart:1459815095780507785>",
+    "price": "10k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460266437355765952",
+    "publicMsgId": "1460266434100990172",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1459871037490729122",
+    "product": "<:levi_heart:1459815095780507785>",
+    "price": "10k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460279995871002634",
+    "publicMsgId": "1460279993014947850",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1299036181186740276",
+    "product": "4gear draco",
+    "price": "40k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460297881725567150",
+    "publicMsgId": "1460297878227517541",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1117378865002721290",
+    "product": "<:levi_heart:1459815095780507785> tiki",
+    "price": "10k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460306242202239100",
+    "publicMsgId": "1460306238389620920",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1113850849098203206",
+    "product": "a-z draco",
+    "price": "120k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460307595419189361",
+    "publicMsgId": "1460307590780162119",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1113850849098203206",
+    "product": "a-z draco",
+    "price": "120k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460609648322150423",
+    "publicMsgId": "1460609643913936959",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1059350287657226260",
+    "product": "20 <:mythicscroll:1459817055250551012>",
+    "price": "40k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460612856885022813",
+    "publicMsgId": "1460612852833456181",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1333747131697205258",
+    "product": "a-z draco v3",
+    "price": "60k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460613029472374857",
+    "publicMsgId": "1460613026708459651",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1254721132452646925",
+    "product": "dragon strm",
+    "price": "30k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460613275841597658",
+    "publicMsgId": "1460613272884613316",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1117378865002721290",
+    "product": "1 <:levi_heart:1459815095780507785>",
+    "price": "10K",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460613386050998314",
+    "publicMsgId": "1460613384125808702",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1117378865002721290",
+    "product": "4 <:levi_heart:1459815095780507785>",
+    "price": "40k",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460993583015399475",
+    "publicMsgId": "1460993580280713259",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1403560160378486784",
+    "product": "dragon heath + storm+ draco v3",
+    "price": "90k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1460993570210320427/94117F0A-97CA-4608-97B7-9188D0DEEF79.png?ex=6968efcb&is=69679e4b&hm=be39a7c135212ce2a0316ac29ceef98ea5cd8df37a9e7f4647439c87d754de14&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460994074340360407",
+    "publicMsgId": "1460994071899275296",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1176879779564240918",
+    "product": "10 <:MythicScrolls:1169652675659448431>",
+    "price": "20k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1460994063581843659/image.png?ex=6968f040&is=69679ec0&hm=5d53d4897090cf2b8e6b03c28aad949a07460ba3c3316e6d0c4e7d025e775a4a&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1460994531003596955",
+    "publicMsgId": "1460994528591741114",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1439462169648300174",
+    "product": "1 trứng rồng",
+    "price": "10k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1460994520010457174/image.png?ex=6968f0ad&is=69679f2d&hm=915f5c18062dc212b43b93c0763f8a2404e553b5c02afe534165d81f28864648&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461019217246556220",
+    "publicMsgId": "1461019212674891993",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1413848147322474598",
+    "product": "1",
+    "price": "1000",
+    "billUrl": null,
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461190771125518407",
+    "publicMsgId": "1461190768545890600",
+    "publicChannelId": "1459769519210893377",
+    "customer": "874968454443192380",
+    "product": "full ⚙️ goul",
+    "price": "36k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461190760186773698/image.png?ex=6969a770&is=696855f0&hm=3250df550291382e4af10ffe4698e9f051bee92bac2a9ed077dbfec5d846d08b&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461191436937466018",
+    "publicMsgId": "1461191429027270812",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1378757920061259858",
+    "product": "3 gear goul 1 tim hydra",
+    "price": "25k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461191420005056757/A84442AB-BEF8-43FB-B9C4-242E26036F04.png?ex=6969a80e&is=6968568e&hm=08f998e91a93b0d8e4332033945c82e1a6e10f98c22009eecf8d6091292420b0&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461205540586782887",
+    "publicMsgId": "1461205537847771147",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1445403327750738031",
+    "product": "10 <:mythicscroll:1459817055250551012>",
+    "price": "20k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461205522828230760/image.png?ex=6969b530&is=696863b0&hm=a636435ecf9cc0f7251a4dc5dc8a98763beccbb47ac0844fbde0642901ae914d&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461323848531312692",
+    "publicMsgId": "1461323846081708124",
+    "publicChannelId": "1459769519210893377",
+    "customer": "925305574139261019",
+    "product": "10 <:mythicscroll:1459817055250551012>",
+    "price": "20k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461323836711501966/image.png?ex=696a2360&is=6968d1e0&hm=ee8ba1c3792b9517d2dcb2f4a5889c2e3eea1f4fc7bb1da62d4c8a24121cf2e1&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461340271424966854",
+    "publicMsgId": "1461340269617352704",
+    "publicChannelId": "1461335057300979856",
+    "customer": "1145355809182728305",
+    "product": "10 <:mythicscroll:1459817055250551012>",
+    "price": "20k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461340251724451902/image.png?ex=696a32aa&is=6968e12a&hm=a177b67ac64bac8c6926a80f448298451146fd060cecca926cda9e3535baf749&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461340465898066024",
+    "publicMsgId": "1461340463985463327",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1145355809182728305",
+    "product": "10 <:mythicscroll:1459817055250551012>",
+    "price": "20k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461340450282799256/image.png?ex=696a32d9&is=6968e159&hm=ecfe98c10f55be61d33a16b8ab59139bf69ec77d19fdac7d8abaffd429d7735e&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461350679967825991",
+    "publicMsgId": "1461350677589528711",
+    "publicChannelId": "1459769519210893377",
+    "customer": "931744688489234472",
+    "product": "10 <:mythicscroll:1459817055250551012>",
+    "price": "20k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461350666973741178/image.png?ex=696a3c5d&is=6968eadd&hm=e928e8aa5fea6ea651751b9973673be1d283a3aac83aec7d0477ba431c40e168&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461355634967576657",
+    "publicMsgId": "1461355632715239561",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1273134754467676202",
+    "product": "5 day levi",
+    "price": "36k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461355624720896013/A57CD8D2-C3A5-49DF-B026-2FF6A196E777.png?ex=696a40fb&is=6968ef7b&hm=05d82d1a15d9a3784e9f4e16a865ebbd7cb6c3ed87b88868ca305d92a44c82d0&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461525703915868303",
+    "publicMsgId": "1461525701378183391",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1421841112846303444",
+    "product": "foxlamp + 8day treo levi",
+    "price": "100k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461525693337829507/292EB743-CA81-4F39-9F5D-E25B117504D4.png?ex=696adf5f&is=69698ddf&hm=389b6a29f9dc496692c32d81edbe8ea3c32d47ca057605128140e2aa546a8ea0&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461672236707610739",
+    "publicMsgId": "1461672232731541504",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1176879779564240918",
+    "product": "10 <:mythicscroll:1459817055250551012>",
+    "price": "20k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461672217049038975/96808AC0-56D4-4F21-823C-50AC179AEB6D.png?ex=696b67d5&is=696a1655&hm=d0f8764404ed1cfaa6b5c56cbda9759a71124be7203c22c6f158be5e0fc7f25a&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461715522814218241",
+    "publicMsgId": "1461715520809078886",
+    "publicChannelId": "1458886309492818126",
+    "customer": "1333747131697205258",
+    "product": "draco a-z v4 fg",
+    "price": "110k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461715513666310265/image.png?ex=696b9027&is=696a3ea7&hm=22f32e8e27a0433d62c35d96eff083d84f5a8e1f39d56b23a64c6b59127a29b2&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461715898032455721",
+    "publicMsgId": "1461715896287498272",
+    "publicChannelId": "1458886309492818126",
+    "customer": "912143532947562539",
+    "product": "fg v4",
+    "price": "36k",
+    "billUrl": null,
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461716398488293376",
+    "publicMsgId": "1461716396122705930",
+    "publicChannelId": "1459875141113610369",
+    "customer": "912143532947562539",
+    "product": "fg v4",
+    "price": "36k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461716387742613725/image.png?ex=696b90f8&is=696a3f78&hm=85611bd88e5b3af8b8b0f080558ab7e2241ee43290e4698e3ede71eea25ce4ca&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461717398548647969",
+    "publicMsgId": "1461717396313215078",
+    "publicChannelId": "1459769519210893377",
+    "customer": "912143532947562539",
+    "product": "fg v4",
+    "price": "36k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461717387673080052/image.png?ex=696b91e6&is=696a4066&hm=902f7056d1ae0d42818c134af08ac98add6c21cb86c417d2b60d0a42452c3382&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461717666703212730",
+    "publicMsgId": "1461717664631230514",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1333747131697205258",
+    "product": "draco a-z v4 fg",
+    "price": "110k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461717653860122655/image.png?ex=696b9226&is=696a40a6&hm=45471a4d0e34d568a243031ec658b3786bed339c4df863997bcc08f4ab58d244&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461727606046068747",
+    "publicMsgId": "1461727603768688775",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1051852889762570303",
+    "product": "10 <:mythicscroll:1459817055250551012>",
+    "price": "20k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461727595425960092/image.png?ex=696b9b68&is=696a49e8&hm=acee0b2f0097585a71913314c3713cd58b7371ef6f5191d312fe868425b5c49f&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461754435519905793",
+    "publicMsgId": "1461754433015906344",
+    "publicChannelId": "1459769519210893377",
+    "customer": "874968454443192380",
+    "product": "5day treo <:levi_heart:1459815095780507785>",
+    "price": "36k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461754422223966426/image.png?ex=696bb464&is=696a62e4&hm=ac0a09bc407d6140b13a82c55398f83721ff9af000076f4fb3c6a5e205bad350&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1461911007017308212",
+    "publicMsgId": "1461911004521828498",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1424639747673821226",
+    "product": "10 <:mythicscroll:1459817055250551012>",
+    "price": "20k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1461910992719057128/image.png?ex=696c4635&is=696af4b5&hm=a92470a4dfa4d5777c042ac0b187a39b88716cf9b107871d52b6611928219379&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1462076003055833349",
+    "publicMsgId": "1462076001453473964",
+    "publicChannelId": "1462070034775015496",
+    "customer": "1080848303580782592",
+    "product": "1 <:levi_heart:1459815095780507785>",
+    "price": "10k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1462075988039958594/E8E755BA-3037-491B-A3D2-8CF0EF07A1CA.png?ex=696cdfdf&is=696b8e5f&hm=ab19a605655da83d6e64d5f0d859ebda9e9ed64d7eb5f5261028bc5fc78f1dd1&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1462076176708403231",
+    "publicMsgId": "1462076174766182632",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1080848303580782592",
+    "product": "1 <:levi_heart:1459815095780507785>",
+    "price": "10k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1462076167430602854/E8E755BA-3037-491B-A3D2-8CF0EF07A1CA.png?ex=696ce00a&is=696b8e8a&hm=0c408c689c637f13998cf5b886fbb78c1a8b1c71a97c6464ce9ccbf9c4e89a0a&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1462077003288281139",
+    "publicMsgId": "1462077001346318610",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1322107321354289157",
+    "product": "10k",
+    "price": "<:dark_fragment:1405280970856337428>",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1462076992865173588/F6D04B4E-F680-4B26-8ADA-D10C167E0934.png?ex=696ce0cf&is=696b8f4f&hm=de13ea5ca363ea1f7da6d5f1ec49d0c816b27d0768096ca66ddccdde7c9e878b&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1462077332775764133",
+    "publicMsgId": "1462077331014422793",
+    "publicChannelId": "1459769519210893377",
+    "customer": "1435542797447987342",
+    "product": "170k",
+    "price": "yoru",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1462077316082434186/D1BBA6C4-5299-4319-B274-1ECD07D20087.png?ex=696ce11c&is=696b8f9c&hm=e8df2e255967e8b70442e3d38067410e8b9127b648559bcffe22cd10a3687962&",
+    "serverId": "1437947997668511757"
+  },
+  {
+    "type": "bill",
+    "manageMsgId": "1462104974258475240",
+    "publicMsgId": "1462104972001935382",
+    "publicChannelId": "1459769519210893377",
+    "customer": "888456836024528936",
+    "product": "20 <:mythicscroll:1459817055250551012>",
+    "price": "40k",
+    "billUrl": "https://cdn.discordapp.com/ephemeral-attachments/1459780494790234164/1462104963114336388/1F63000E-50CD-4660-9343-CA0842AAA185.png?ex=696cfadb&is=696ba95b&hm=98e829e21e3db58566130f26173e086df41b8e18b47c178d1a58bbd05c1b4fd4&",
+    "serverId": "1437947997668511757"
+  }
+]
